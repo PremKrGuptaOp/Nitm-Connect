@@ -63,8 +63,8 @@ server.listen(PORT, () => {
 });
 
 // ...
-const matchRoutes = require('./routes/matchRoutes');
-const messageRoutes = require('./routes/messageRoutes');
+
+
 const adminRoutes = require('./routes/adminRoutes'); // Add this line
 
 // ...
